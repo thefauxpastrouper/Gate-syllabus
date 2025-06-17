@@ -32,10 +32,10 @@
 ---
 
 ## Section 2: Digital Logic
-- [ ] Boolean algebra
-- [ ] Combinational and sequential circuits
-- [ ] Minimization
-- [ ] Number representations and computer arithmetic (fixed and floating point)
+- [x] Boolean algebra
+- [x] Combinational and sequential circuits
+- [x] Minimization
+- [x] Number representations and computer arithmetic (fixed and floating point)
 
 ---
 
