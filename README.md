@@ -40,11 +40,11 @@
 ---
 
 ## Section 3: Computer Organization and Architecture
-- [ ] Machine instructions and addressing modes
-- [ ] ALU, datapath, and control unit
-- [ ] Instruction pipelining, pipeline hazards
-- [ ] Memory hierarchy: cache, main memory, and secondary storage
-- [ ] I/O interface: interrupt and DMA mode
+- [X] Machine instructions and addressing modes
+- [X] ALU, datapath, and control unit
+- [X] Instruction pipelining, pipeline hazards
+- [X] Memory hierarchy: cache, main memory, and secondary storage
+- [X] I/O interface: interrupt and DMA mode
 
 ---
 
