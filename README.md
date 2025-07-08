@@ -5,11 +5,11 @@
 ## Section 1: Engineering Mathematics
 
 ### Discrete Mathematics
-- [ ] Propositional and first order logic
-- [ ] Sets, relations, functions, partial orders and lattices
-- [ ] Monoids, Groups
-- [ ] Graphs: connectivity, matching, coloring
-- [ ] Combinatorics: counting, recurrence relations, generating functions
+- [x] Propositional and first order logic
+- [x] Sets, relations, functions, partial orders and lattices
+- [x] Monoids, Groups
+- [x] Graphs: connectivity, matching, coloring
+- [x] Combinatorics: counting, recurrence relations, generating functions
 
 ### Linear Algebra
 - [ ] Matrices, determinants
@@ -93,11 +93,11 @@
 ---
 
 ## Section 9: Databases
-- [ ] ER model
-- [ ] Relational model: relational algebra, tuple calculus, SQL
-- [ ] Integrity constraints, normal forms
-- [ ] File organization, indexing (B and B+ trees)
-- [ ] Transactions and concurrency control
+- [x] ER model
+- [x] Relational model: relational algebra, tuple calculus, SQL
+- [x] Integrity constraints, normal forms
+- [x] File organization, indexing (B and B+ trees)
+- [x] Transactions and concurrency control
 
 ---
 
